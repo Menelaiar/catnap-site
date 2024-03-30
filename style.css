@@ -25,3 +25,6 @@ a:hover {
     transition: .5s;
     text-decoration: underline;
 }
+body {
+    min-width: 97vw;
+}
